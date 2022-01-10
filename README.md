@@ -7,10 +7,10 @@
   
 4、效果图：  
   
-![分类页面](eff imgs/categories.PNG) 
+![分类页面](https://github.com/laipingping/dnzt/blob/master/eff%20imgs/categories.PNG) 
   
-![分类页面](eff imgs/categories.PNG) 
+![分类页面](https://github.com/laipingping/dnzt/blob/master/eff%20imgs/hot.PNG) 
   
-![分类页面](eff imgs/categories.PNG)  
+![分类页面](https://github.com/laipingping/dnzt/blob/master/eff%20imgs/new.PNG)  
   
-![分类页面](eff imgs/categories.PNG)  
+![分类页面](https://github.com/laipingping/dnzt/blob/master/eff%20imgs/recommend.PNG)  
