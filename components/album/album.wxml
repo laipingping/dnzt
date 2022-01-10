@@ -1,0 +1,11 @@
+<!--components/album/album.wxml-->
+<view class="flx" wx:for="{{imgList}}" wx:key="_id">
+  <view class="flx-img">
+    <image 
+      src="{{'http://118.190.104.39:3000/' + item.cover}}"
+      class="img"
+    ></image>
+    <view class="txt">{{item.name}}</view>
+    <view class="count">共{{item.count}}张</view>
+  </view>
+</view>
