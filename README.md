@@ -7,10 +7,10 @@
   
 4、效果图：  
   
-![Image text]() 
+![分类页面](eff imgs/categories.PNG) 
   
-https://s2.loli.net/2022/01/10/Sw4FGAMojrBZJlT.png  
+![分类页面](eff imgs/categories.PNG) 
   
-https://s2.loli.net/2022/01/10/RNY37DT8wpFE9Kg.png  
+![分类页面](eff imgs/categories.PNG)  
   
-https://s2.loli.net/2022/01/10/gPkhsSfZEoVJWLq.png  
+![分类页面](eff imgs/categories.PNG)  
